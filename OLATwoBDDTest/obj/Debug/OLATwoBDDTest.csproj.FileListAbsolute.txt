@@ -1,0 +1,12 @@
+C:\Users\Janus\source\repos\OLATwoBDDTest\bin\Debug\OLATwoBDDTest.dll
+C:\Users\Janus\source\repos\OLATwoBDDTest\bin\Debug\OLATwoBDDTest.pdb
+C:\Users\Janus\source\repos\OLATwoBDDTest\obj\Debug\OLATwoBDDTest.csproj.AssemblyReference.cache
+C:\Users\Janus\source\repos\OLATwoBDDTest\obj\Debug\OLATwoBDDTest.csproj.CoreCompileInputs.cache
+C:\Users\Janus\source\repos\OLATwoBDDTest\obj\Debug\OLATwoBDDTest.dll
+C:\Users\Janus\source\repos\OLATwoBDDTest\obj\Debug\OLATwoBDDTest.pdb
+C:\Users\Janus\source\repos\OLA2TestCourse\OLATwoBDDTest\bin\Debug\OLATwoBDDTest.dll
+C:\Users\Janus\source\repos\OLA2TestCourse\OLATwoBDDTest\bin\Debug\OLATwoBDDTest.pdb
+C:\Users\Janus\source\repos\OLA2TestCourse\OLATwoBDDTest\obj\Debug\OLATwoBDDTest.csproj.AssemblyReference.cache
+C:\Users\Janus\source\repos\OLA2TestCourse\OLATwoBDDTest\obj\Debug\OLATwoBDDTest.csproj.CoreCompileInputs.cache
+C:\Users\Janus\source\repos\OLA2TestCourse\OLATwoBDDTest\obj\Debug\OLATwoBDDTest.dll
+C:\Users\Janus\source\repos\OLA2TestCourse\OLATwoBDDTest\obj\Debug\OLATwoBDDTest.pdb
