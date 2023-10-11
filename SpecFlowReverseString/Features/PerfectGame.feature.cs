@@ -19,7 +19,7 @@ namespace SpecFlowTest.Features
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("TechTalk.SpecFlow", "3.9.0.0")]
     [System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    public partial class StringLowercaseFeature : object, Xunit.IClassFixture<StringLowercaseFeature.FixtureData>, System.IDisposable
+    public partial class PerfectGameFeature : object, Xunit.IClassFixture<PerfectGameFeature.FixtureData>, System.IDisposable
     {
         
         private static TechTalk.SpecFlow.ITestRunner testRunner;
@@ -28,10 +28,10 @@ namespace SpecFlowTest.Features
         
         private Xunit.Abstractions.ITestOutputHelper _testOutputHelper;
         
-#line 1 "StringLowercase.feature"
+#line 1 "PerfectGame.feature"
 #line hidden
         
-        public StringLowercaseFeature(StringLowercaseFeature.FixtureData fixtureData, SpecFlowTest_XUnitAssemblyFixture assemblyFixture, Xunit.Abstractions.ITestOutputHelper testOutputHelper)
+        public PerfectGameFeature(PerfectGameFeature.FixtureData fixtureData, SpecFlowTest_XUnitAssemblyFixture assemblyFixture, Xunit.Abstractions.ITestOutputHelper testOutputHelper)
         {
             this._testOutputHelper = testOutputHelper;
             this.TestInitialize();
@@ -40,7 +40,7 @@ namespace SpecFlowTest.Features
         public static void FeatureSetup()
         {
             testRunner = TechTalk.SpecFlow.TestRunnerManager.GetTestRunner();
-            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Features", "StringLowercase", "A short summary of the feature", ProgrammingLanguage.CSharp, ((string[])(null)));
+            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Features", "PerfectGame", "A short summary of the feature", ProgrammingLanguage.CSharp, ((string[])(null)));
             testRunner.OnFeatureStart(featureInfo);
         }
         
@@ -80,16 +80,16 @@ namespace SpecFlowTest.Features
             this.TestTearDown();
         }
         
-        [Xunit.SkippableFactAttribute(DisplayName="I want to convert a string to lowercase")]
-        [Xunit.TraitAttribute("FeatureTitle", "StringLowercase")]
-        [Xunit.TraitAttribute("Description", "I want to convert a string to lowercase")]
-        [Xunit.TraitAttribute("Category", "tag1")]
-        public virtual void IWantToConvertAStringToLowercase()
+        [Xunit.SkippableFactAttribute(DisplayName="Perfect Game")]
+        [Xunit.TraitAttribute("FeatureTitle", "PerfectGame")]
+        [Xunit.TraitAttribute("Description", "Perfect Game")]
+        [Xunit.TraitAttribute("Category", "PerfectGame")]
+        public virtual void PerfectGame()
         {
             string[] tagsOfScenario = new string[] {
-                    "tag1"};
+                    "PerfectGame"};
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("I want to convert a string to lowercase", null, tagsOfScenario, argumentsOfScenario, this._featureTags);
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Perfect Game", null, tagsOfScenario, argumentsOfScenario, this._featureTags);
 #line 6
 this.ScenarioInitialize(scenarioInfo);
 #line hidden
@@ -111,13 +111,13 @@ this.ScenarioInitialize(scenarioInfo);
             {
                 this.ScenarioStart();
 #line 7
- testRunner.Given("I have a string \"ABC\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+ testRunner.Given("yet again another new bowling game", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
 #line hidden
 #line 8
- testRunner.When("I convert the string to lowercase", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+ testRunner.When("the player rolls 12 times and hits 10 pins each times", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line hidden
 #line 9
- testRunner.Then("the string should be lowercase \"abc\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+ testRunner.Then("the final bowling game score should be 300", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             }
             this.ScenarioCleanup();
@@ -130,12 +130,12 @@ this.ScenarioInitialize(scenarioInfo);
             
             public FixtureData()
             {
-                StringLowercaseFeature.FeatureSetup();
+                PerfectGameFeature.FeatureSetup();
             }
             
             void System.IDisposable.Dispose()
             {
-                StringLowercaseFeature.FeatureTearDown();
+                PerfectGameFeature.FeatureTearDown();
             }
         }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BVxjqEhY1e7yNZNBJBMPsZI7snw4z5UIo976i/J93tUwYRLlx13Cq/+GyX1WRZKJaqpoFhS1WUHWLycUg6wCuQ==",
+  "dgSpecHash": "kOZ01F4Qk9IyqBtxN2v8G7yf5Cudj0tXcf59L4tzYt6ZHXRSJbLTrJKJEzC57ztpLXM01C5Z4J0Nf7afAtT8iA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Janus\\source\\repos\\OLA2TestCourse\\SpecFlowReverseString\\SpecFlowReverseString.csproj",
+  "projectFilePath": "C:\\Users\\Janus\\source\\repos\\OLA2TestCourse\\SpecFlowReverseString\\SpecFlowTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Janus\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\Janus\\.nuget\\packages\\fluentassertions\\6.2.0\\fluentassertions.6.2.0.nupkg.sha512",

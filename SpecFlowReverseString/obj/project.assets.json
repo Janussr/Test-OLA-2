@@ -7011,9 +7011,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Janus\\source\\repos\\OLA2TestCourse\\SpecFlowReverseString\\SpecFlowReverseString.csproj",
-      "projectName": "SpecFlowReverseString",
-      "projectPath": "C:\\Users\\Janus\\source\\repos\\OLA2TestCourse\\SpecFlowReverseString\\SpecFlowReverseString.csproj",
+      "projectUniqueName": "C:\\Users\\Janus\\source\\repos\\OLA2TestCourse\\SpecFlowReverseString\\SpecFlowTest.csproj",
+      "projectName": "SpecFlowTest",
+      "projectPath": "C:\\Users\\Janus\\source\\repos\\OLA2TestCourse\\SpecFlowReverseString\\SpecFlowTest.csproj",
       "packagesPath": "C:\\Users\\Janus\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Janus\\source\\repos\\OLA2TestCourse\\SpecFlowReverseString\\obj\\",
       "projectStyle": "PackageReference",
